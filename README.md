@@ -1,3 +1,6 @@
+
+<img src="https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/03/Guide-to-Podcast-Art-Images-Featured.jpg">
+
 # VUESIC
 Vuesic is a podcast app designed to offer users a comprehensive listening experience. With Vuesic, you can discover new podcasts, stay up to date on the latest episodes, and never miss a beat. This version of Vuesic is a React web app that allows users to access the app from their web browser.
 ## Features
